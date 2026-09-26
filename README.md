@@ -1,6 +1,6 @@
 EDM Survey Viewer
 
-A QGIS plugin for use with EDMpy (https://github.com/surf3s/EDM)
+A QGIS plugin for use with EDMpy (https://github.com/surf3s/EDM) while surveying/excavating with a total station at archaeological sites.
 
 EDM Survey Viewer reads .json databases from EDMpy as total station data is being saved. Built for QGIS v3.x-4.x.
 
