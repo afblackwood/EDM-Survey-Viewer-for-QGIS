@@ -1,0 +1,8 @@
+[general]
+name=EDM Survey Viewer
+description=Real-time survey viewer for use with a total station. Built to read .json databases from EDMpy as total station data is being saved. Built for QGIS v3.x-4.x. To start, first browse to and select the folder that has the .json database that EDMpy is writing (by default, this will be in the same folder as the .CFG file you are using) by pressing 'Browse', then press 'Start' to begin live updates. The CRS defaults to a local coordinate system, and a CRS does not have to be used (it will work fine without one), but it can also be selected manually (for example if you are also loading georectified features such as polygons or rasters etc).
+version=1.0
+qgisMinimumVersion=3.0
+qgisMaximumVersion=4.9
+author=Alex Blackwood
+email=afblackwood@gmail.com
