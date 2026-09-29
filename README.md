@@ -9,4 +9,4 @@ To install, go to 'Manage and Install Plugins' in QGIS, and install either from 
 Version 1.0
 
 Oct 2026
-The version before this was tested in the field and found to be stable, but many features have been added since - email me if any bugs are found and I'll try to fix them asap.
+The version before this was tested in the field and found to be stable, but many features have been added since - email me, or add an 'issue' here in github, if any bugs are found and I'll try to fix them asap.
